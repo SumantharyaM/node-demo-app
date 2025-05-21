@@ -1,0 +1,13 @@
+{
+  "name": "node-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js demo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
